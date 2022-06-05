@@ -1,7 +1,11 @@
-This project is 
+This project allows Users to save Bookmarks and click on the link to go back to the saved page
 
-It uses 
+It uses local storage to save the page details and store them in the Users storage and also dynamically saves the favicons that go with the saved sites details too
 
-It can be used as an example of 
+Users can select the Add Bookmark which launches a modal and the User can save the site details directly. 
 
-- 
+Users don't need to add the https:// or the www. this is done through the modal.
+
+Bookmarks can easily be deleted. 
+
+The project is mobile responsive too.
